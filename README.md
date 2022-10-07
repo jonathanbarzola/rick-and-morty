@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://jonathanbarzola.github.io/rick-and-morty/" target="_blank">
+    <a href="https://jonathanbarzola.github.io/rick-and-morty/" target="_blank" rel="noopener noreferrer">
       Demo
     </a>
   </h3>
